@@ -75,11 +75,11 @@ Edit `.streamlit/config.toml` to customize the app's appearance. For example:
 ```toml
 [theme]
 base = "dark"
-primaryColor = "#8B5CF6"
-backgroundColor = "#0E1117"
-secondaryBackgroundColor = "#262730"
-textColor = "#FAFAFA"
-font = "sans serif"
+primaryColor = "#eb9b61"
+backgroundColor = "#d1c8be"
+secondaryBackgroundColor = "#b7a494"
+textColor = "#000000"
+font = "times new roman"
 ```
 
 Keep `.streamlit/` at the project root, alongside `strfrontend.py`, and launch Streamlit from that directory. Save the configuration and rerun the app to apply changes.
